@@ -144,6 +144,7 @@
                     NSDictionary *elem = @{
                         @"metricType" : type,
                         @"value" : @(value),
+                        @"startDate" : startDateString,
                         @"date" : startDateString,
                     };
                     
